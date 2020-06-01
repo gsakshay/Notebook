@@ -44,6 +44,7 @@ function App() {
           del={deleteNote}
           />);
       })}
+      <br></br>
       <Footer />
     </div>
   );
